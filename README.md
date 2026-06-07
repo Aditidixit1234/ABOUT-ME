@@ -95,3 +95,13 @@ Already handled! The hamburger menu appears on mobile automatically.
 - Use VS Code to edit files (free download: https://code.visualstudio.com)
 - Install the "Live Server" extension in VS Code for live preview
 - Right-click `index.html` → "Open with Live Server"
+
+  # Aditi Dixit — Portfolio
+
+🌐 **Live Portfolio:** [Click Here](https://Aditidixit1234.github.io/ABOUT-ME)
+
+👩‍💻 Full-Stack Developer | MERN | AWS | Machine Learning
+
+📧 aditidixitdpsjkp180@gmail.com
+
+🔗 [LinkedIn](https://linkedin.com/in/aditi-d-56b5772a8) | [GitHub](https://github.com/Aditidixit1234)

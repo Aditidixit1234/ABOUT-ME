@@ -120,7 +120,7 @@
 // ============================================================
 // 2. TYPED EFFECT
 // ============================================================
-const phrases=['Software Engineer','Full-Stack Developer','AI/ML Enthusiast','Real-Time Systems Builder','Competitive Coder'];
+const phrases=['Full-Stack Developer','ML & AI Enthusiast','Backend Developer','Real-Time Systems Builder','Competitive Coder'];
 let pi=0,ci=0,del=false;
 const typedEl=document.getElementById('typed');
 function typeEffect(){
